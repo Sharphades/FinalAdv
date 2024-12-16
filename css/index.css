@@ -1,0 +1,20 @@
+:root {
+    
+}
+@font-face {
+    font-family: 'Poppins';
+    src: url(/fonts/Poppins-Regular.ttf);
+}
+
+* {
+    font-family: 'Poppins';
+}
+
+.navbar-brand {
+    font-weight: 1000;
+}           
+
+h4 {
+    text-align: center;
+    font-weight: bold;
+}
